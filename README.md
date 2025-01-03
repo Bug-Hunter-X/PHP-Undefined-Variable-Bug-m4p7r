@@ -1,0 +1,1 @@
+This repository demonstrates a common PHP bug involving the use of undefined variables. The `bug.php` file contains the buggy code, while `bugSolution.php` provides a corrected version.  Understanding this issue is crucial for writing robust PHP applications.  Undefined variables can lead to unexpected behavior and errors, impacting application reliability.
